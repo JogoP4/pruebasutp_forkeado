@@ -8,7 +8,7 @@ import java.util.Random;
 
 /**
  *
- * @author TOSHIBA
+ * @author Renato
  */
 public class LaboratorioSemana03 {
     private int a_edad[],a_aniosCliente[],
