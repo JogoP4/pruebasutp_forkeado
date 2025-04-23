@@ -9,6 +9,7 @@ import java.util.Random;
 /**
  *
  * @author Renato Galdo
+ * Pequeño cambio
  */
 public class LaboratorioSemana03 {
     
@@ -16,7 +17,7 @@ public class LaboratorioSemana03 {
     private int a_edad[],a_aniosCliente[],
             a_gradoSatisfaccion[];
     
-    private final String a_posiblesAnios[]={"-------",
+    private final String a_posiblesAnios[]={"ALE PE CHICOSSSS :V",
                                             "Entre 1 y 3 anios",
                                             "Entre 4 y 8 anios",
                                             "Mas de 8 anios"};
