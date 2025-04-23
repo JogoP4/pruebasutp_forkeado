@@ -9,6 +9,7 @@ import java.util.Random;
 /**
  *
  * @author Renato Galdo
+ * Pequeño cambio
  */
 public class LaboratorioSemana03 {
     private int a_edad[],a_aniosCliente[],
