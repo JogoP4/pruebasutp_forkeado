@@ -9,8 +9,11 @@ import java.util.Random;
 /**
  *
  * @author Renato Galdo
+ * Pequeño cambio
  */
 public class LaboratorioSemana03 {
+    
+    private int prueba;
     private int a_edad[],a_aniosCliente[],
             a_gradoSatisfaccion[];
     
@@ -100,7 +103,9 @@ public class LaboratorioSemana03 {
         this.imprimirDatos();        
     }
     
-   
+   public void probandoJosue (){
+       //hola
+}
                 
     public static void main (String args[]){
         LaboratorioSemana03 ejemplo=new LaboratorioSemana03(50);
