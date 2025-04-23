@@ -100,7 +100,9 @@ public class LaboratorioSemana03 {
         this.imprimirDatos();        
     }
     
-   
+   public void probandoJosue (){
+       //hola
+}
                 
     public static void main (String args[]){
         LaboratorioSemana03 ejemplo=new LaboratorioSemana03(50);
