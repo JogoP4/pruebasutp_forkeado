@@ -11,6 +11,8 @@ import java.util.Random;
  * @author Renato Galdo
  */
 public class LaboratorioSemana03 {
+    
+    private int prueba;
     private int a_edad[],a_aniosCliente[],
             a_gradoSatisfaccion[];
     
